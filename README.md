@@ -9,5 +9,5 @@ Type out the selected text:
 ![start_screen](https://github.com/Denis-Source/keyboard_trainer/blob/master/screenshots/training_screen.png)
 
 ***
-Get comprehensive info about yor typing skills:
+Get the information about your typing skills:
 ![start_screen](https://github.com/Denis-Source/keyboard_trainer/blob/master/screenshots/finish_screen.png)
